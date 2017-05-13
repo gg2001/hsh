@@ -16,7 +16,7 @@ public class ai : MonoBehaviour {
 		{
 
 		}
-
+		
 		void Update()
 		{
 			transform.LookAt(Player);
