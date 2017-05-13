@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 121a6f27ec625482183e495421466ab2
+timeCreated: 1494632351
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cone10_copy11_default
+    100004: cone10_copy13_default
+    100006: cone10_copy14_default
+    100008: cone10_default
+    100010: Cube15_copy16_default
+    100012: Cube15_default
+    100014: Cube4_default
+    100016: Cube5_default
+    100018: Cube6_default
+    100020: Cube7_copy8_default
+    100022: Cube7_default
+    100024: Cylinder1_default
+    100026: Torus9_default
+    400000: //RootNode
+    400002: cone10_copy11_default
+    400004: cone10_copy13_default
+    400006: cone10_copy14_default
+    400008: cone10_default
+    400010: Cube15_copy16_default
+    400012: Cube15_default
+    400014: Cube4_default
+    400016: Cube5_default
+    400018: Cube6_default
+    400020: Cube7_copy8_default
+    400022: Cube7_default
+    400024: Cylinder1_default
+    400026: Torus9_default
+    2300000: cone10_copy11_default
+    2300002: cone10_copy13_default
+    2300004: cone10_copy14_default
+    2300006: cone10_default
+    2300008: Cube15_copy16_default
+    2300010: Cube15_default
+    2300012: Cube4_default
+    2300014: Cube5_default
+    2300016: Cube6_default
+    2300018: Cube7_copy8_default
+    2300020: Cube7_default
+    2300022: Cylinder1_default
+    2300024: Torus9_default
+    3300000: cone10_copy11_default
+    3300002: cone10_copy13_default
+    3300004: cone10_copy14_default
+    3300006: cone10_default
+    3300008: Cube15_copy16_default
+    3300010: Cube15_default
+    3300012: Cube4_default
+    3300014: Cube5_default
+    3300016: Cube6_default
+    3300018: Cube7_copy8_default
+    3300020: Cube7_default
+    3300022: Cylinder1_default
+    3300024: Torus9_default
+    4300000: cone10_copy11_default
+    4300002: cone10_copy13_default
+    4300004: cone10_copy14_default
+    4300006: cone10_default
+    4300008: Cube15_copy16_default
+    4300010: Cube15_default
+    4300012: Cube4_default
+    4300014: Cube5_default
+    4300016: Cube6_default
+    4300018: Cube7_copy8_default
+    4300020: Cube7_default
+    4300022: Cylinder1_default
+    4300024: Torus9_default
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
