@@ -11,3 +11,4 @@ HSH was created by members of the K. International School Programming Club. We w
 ![Gameplay](screenshot1.jpg)
 ![Gameplay](screenshot2.png)
 ![Gameplay](screenshot3.png)
+![Gameplay](screenshot4.png)
