@@ -1,3 +1,4 @@
+![Logo](hsh.png)
 # Home-Sweet-Home
 
 [![Unity 5.6.0](https://img.shields.io/badge/Unity-5.6.0-brightgreen.svg)](https://unity3d.com/get-unity/download/archive)
